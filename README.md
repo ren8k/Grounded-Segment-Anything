@@ -1,3 +1,21 @@
+
+バグがあったので，以下を実行する必要あり．
+
+```
+bash setup.sh
+```
+
+## 参考
+
+- https://github.com/IDEA-Research/Grounded-Segment-Anything/issues/436#issuecomment-1946157249
+- https://github.com/IDEA-Research/Grounded-Segment-Anything/issues/515
+
+---
+
+---
+
+---
+
 ![](./assets/Grounded-SAM_logo.png)
 
 # Grounded-Segment-Anything
