@@ -9,19 +9,20 @@ make build-image
 make run
 ```
 
-## コード実行
-
-- [grounded_sam.ipynb](https://github.com/ren8k/Grounded-Segment-Anything/blob/main/grounded_sam.ipynb)で動作確認した．
 - バグがあったので，以下を実行する必要あり．
 
 ```
 bash setup.sh
 ```
 
-## 参考
+### 参考
 
 - https://github.com/IDEA-Research/Grounded-Segment-Anything/issues/436#issuecomment-1946157249
 - https://github.com/IDEA-Research/Grounded-Segment-Anything/issues/515
+
+## コード実行
+
+- [grounded_sam.ipynb](https://github.com/ren8k/Grounded-Segment-Anything/blob/main/grounded_sam.ipynb)で動作確認した．
 
 ---
 
