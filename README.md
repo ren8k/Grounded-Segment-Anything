@@ -1,5 +1,12 @@
 # 検証メモ
 
+## 検証環境
+
+- OS: Ubuntu 22.04.4 LTS
+- CPU: Intel(R) Core(TM) i9-12900K
+- RAM: 64GB
+- GPU: NVIDIA GeForce RTX 3090
+
 ## 環境構築
 
 - README記載の通り，以下のコマンドでコンテナを自動構築可能．
