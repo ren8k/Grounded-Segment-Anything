@@ -1,5 +1,18 @@
+# 検証メモ
 
-バグがあったので，以下を実行する必要あり．
+## 環境構築
+
+- README記載の通り，以下のコマンドでコンテナを自動構築可能．
+
+```
+make build-image
+make run
+```
+
+## コード実行
+
+- [grounded_sam.ipynb](https://github.com/ren8k/Grounded-Segment-Anything/blob/main/grounded_sam.ipynb)で動作確認した．
+- バグがあったので，以下を実行する必要あり．
 
 ```
 bash setup.sh
